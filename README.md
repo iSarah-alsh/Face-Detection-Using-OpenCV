@@ -22,7 +22,7 @@ I used pretrained Haar cascade models to detect faces and eyes in an image, we n
 2- Load filenames for human images. <br>
 3- Extract pre-trained face and eye detectors. <br>
 4- Convert the color images to grayscale it is important step because detection works only on grayscale images.<br>
-5- Find faces and eyes in image using detectMultiScale function.
+5- Find faces and eyes in image using detectMultiScale function.<br>
 6- Get bounding box for each detected face and eye: Each face contains a set of coordinate for the rectangle regions where faces were found. We use these coordinates to draw the rectangles in our image.
 
 ![Uploading …](f1.png)
