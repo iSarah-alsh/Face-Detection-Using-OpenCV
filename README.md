@@ -25,6 +25,12 @@ I used pretrained Haar cascade models to detect faces and eyes in an image, we n
 5- Find faces and eyes in image using detectMultiScale function.
 6- Get bounding box for each detected face and eye: Each face contains a set of coordinate for the rectangle regions where faces were found. We use these coordinates to draw the rectangles in our image.
 
+![Uploading …](f1.png)
+![Uploading …](f2.png)
+![Uploading …](f3.png)
+![Uploading …](f4.png)
+![Uploading …](f5.png)
+![Uploading …](f6.png)
 
 _______________________________________________________________________________________________
 
@@ -55,6 +61,12 @@ Haar cascade models
 3- <b>glob Library:</b> تستخدم للبحث عن مسار مجلد الصور .<br>
 4- <b>matplotlib Library:</b> لرسم المستطيل والدائرة حول الوجة والأعين التي تم اكتشافها في الصورة.<br>
 
+![Uploading …](f1.png)
+![Uploading …](f2.png)
+![Uploading …](f3.png)
+![Uploading …](f4.png)
+![Uploading …](f5.png)
+![Uploading …](f6.png)
 
 ## Refrences:
 
